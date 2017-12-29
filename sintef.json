@@ -1,0 +1,154 @@
+{
+  "project_order": [
+    "Diverse",
+    "Borte",
+    "Intern",
+    "Leiested",
+    "Tekna",
+    "Sommerjobb",
+    "FerroCool",
+    "RPT",
+    "Trafo",
+    "HYVA",
+    "ELEGANCY",
+    "NCCS"
+  ],
+  "projects": {
+    "Fravær": {
+      "number": "98500100",
+      "name": "Fravær/Permisjon",
+      "tasks": {
+        "Omsorg":     9404,
+        "Pappaperm":  9407,
+        "Lege":       9409,
+        "Sjuk":       9402,
+        "Sjuke born": 9406,
+        "Ferie":      9413,
+        "Ferie UL":   9414,
+        "Annet":      9411
+      }
+    },
+
+    "Intern": {
+      "number": "99500121-1",
+      "name": "Intern",
+      "tasks": {
+        "_": 9000
+      }
+    },
+
+    "Leiested": {
+      "number": "L5090023",
+      "name": "Leiested (linux drift)",
+      "tasks": {
+        "Admin": 9000,
+        "Drift": 9005
+      }
+    },
+
+    "Tekna": {
+      "number": "502000428",
+      "name": "ATOer",
+      "tasks": {
+        "_": 10200
+      }
+    },
+
+    "Sommerjobb": {
+      "number": "502001561",
+      "name": "Sommerjobbprosjektet 2017",
+      "tasks": {
+        "T0": 1000,
+        "T1": 1010,
+        "T2": 1020,
+        "T3": 2000,
+        "T4": 2010
+      }
+    },
+
+    "SommerjobbPR": {
+      "number": "502001561-1",
+      "name": "SJP 2017 - PR",
+      "tasks": {
+        "Eureka": 1002
+      }
+    },
+
+    "SommerjobbVL": {
+      "number": "502001561-5",
+      "name": "SJP 2017 - Veiledning",
+      "tasks": {
+        "Eirik": 1040,
+        "Kaia": 1050
+      }
+    },
+
+    "NanoHX": {
+      "number": "502000504",
+      "name": "NanoHX",
+      "tasks": {
+        "T0": 1000,
+        "T6": 1060,
+        "T8": 1110,
+        "T9": 1120
+      }
+    },
+
+    "FerroCool": {
+      "number": "502001365",
+      "name": "FerroCool",
+      "tasks": {
+        "T0": 1000,
+        "T1": 1010,
+        "T4": 1040,
+        "T5": 1050
+      }
+    },
+
+    "RPT": {
+      "number": "502001038",
+      "name": "Predict-RPT",
+      "tasks": {
+        "WP1.1": 1100,
+        "WP1.2": 1110,
+        "WP2.1": 1120,
+        "WP2.2": 1130,
+        "WP3.1": 1140,
+        "WP3.2": 1150,
+        "SP 4":  1160
+      }
+    },
+
+    "NCCS": {
+      "number": "502001439",
+      "name": "NCCS",
+      "tasks": {
+        "Administrasjon": 1000
+      }
+    },
+
+    "ELEGANCY": {
+      "number": "502001618",
+      "name": "ELEGANCY",
+      "tasks": {
+        "PF": 1040
+      }
+    },
+
+    "Trafo": {
+      "number": "502001282",
+      "name": "Trafo",
+      "tasks": {
+        "WP2": 1020
+      }
+    },
+
+    "HYVA": {
+      "number": "502001546",
+      "name": "HYVA",
+      "tasks": {
+        "_": 1020
+      }
+    }
+  }
+}
