@@ -7,7 +7,7 @@
     "Tekna",
     "Sommerjobb",
     "FerroCool",
-    "RPT",
+    "Predict-RPT",
     "Trafo",
     "HYVA",
     "ELEGANCY",
@@ -105,7 +105,7 @@
       }
     },
 
-    "RPT": {
+    "Predict-RPT": {
       "number": "502001038",
       "name": "Predict-RPT",
       "tasks": {
