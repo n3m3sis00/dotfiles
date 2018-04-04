@@ -6,6 +6,7 @@
     "Tekna",
     "Sommerjobb",
     "Leiested",
+    "NanoSun",
     "FerroCool",
     "Predict-RPT",
     "Trafo",
@@ -65,42 +66,11 @@
       }
     },
 
-    "SommerjobbPR": {
-      "number": "502001561-1",
-      "name": "SJP 2017 - PR",
+    "NanoSun": {
+      "number": "502001853",
+      "name": "NanoSun",
       "tasks": {
-        "Eureka": 1002
-      }
-    },
-
-    "SommerjobbVL": {
-      "number": "502001561-5",
-      "name": "SJP 2017 - Veiledning",
-      "tasks": {
-        "Eirik": 1040,
-        "Kaia": 1050
-      }
-    },
-
-    "NanoHX": {
-      "number": "502000504",
-      "name": "NanoHX",
-      "tasks": {
-        "T0": 1000,
-        "T6": 1060,
-        "T8": 1110,
-        "T9": 1120
-      }
-    },
-
-    "FerroCool": {
-      "number": "502001365",
-      "name": "FerroCool",
-      "tasks": {
-        "T0": 1000,
-        "T1": 1010,
-        "T4": 1040,
-        "T5": 1050
+        "_": 1030
       }
     },
 
