@@ -12,7 +12,8 @@
     "TEMpT",
     "HYVA",
     "ELEGANCY",
-    "NCCS"
+    "NCCS",
+    "BigLearn"
   ],
   "projects": {
     "Borte": {
@@ -126,6 +127,22 @@
       "name": "HYVA",
       "tasks": {
         "_": 1020
+      }
+    },
+
+    "HighEFF WP2": {
+      "number": "502001664-3",
+      "name": "HighEFF WP2",
+      "tasks": {
+        "WP2.3": 1020
+      }
+    },
+
+    "BigLearn": {
+      "number": "102016021-6",
+      "name": "BigLearn",
+      "tasks": {
+        "_": 1040
       }
     },
 
