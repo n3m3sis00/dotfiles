@@ -13,7 +13,8 @@
     "HYVA",
     "ELEGANCY",
     "NCCS",
-    "BigLearn"
+    "BigLearn",
+    "SH2IFT"
   ],
   "projects": {
     "Borte": {
@@ -143,6 +144,14 @@
       "name": "BigLearn",
       "tasks": {
         "_": 1040
+      }
+    },
+
+    "SH2IFT": {
+      "number": "502001978",
+      "name": "SH2IFT",
+      "tasks": {
+        "_": 1020
       }
     },
 
