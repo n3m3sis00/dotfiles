@@ -21,14 +21,15 @@
       "number": "98500100",
       "name": "Fravær/Permisjon",
       "tasks": {
-        "Omsorg":     9404,
-        "Pappaperm":  9407,
-        "Lege":       9409,
-        "Sjuk":       9402,
-        "Sjuke born": 9406,
-        "Ferie":      9413,
-        "Ferie UL":   9414,
-        "Annet":      9411
+        "Omsorg":      9404,
+        "Pappaperm":   9407,
+        "Lege":        9409,
+        "Sjuk":        9402,
+        "Sjukmelding": 9400,
+        "Sjuke born":  9406,
+        "Ferie":       9413,
+        "Ferie UL":    9414,
+        "Annet":       9411
       }
     },
 
