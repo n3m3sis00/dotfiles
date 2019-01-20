@@ -6,12 +6,11 @@
     "Tekna",
     "Sommerjobb",
     "Leiested",
-    "NanoSun",
     "FerroCool",
     "Predict-RPT",
     "TEMpT",
     "HYVA",
-    "ELEGANCY",
+    "ELEGANCY WP2",
     "NCCS",
     "BigLearn",
     "SH2IFT"
@@ -62,22 +61,7 @@
       "number": "502002186",
       "name": "Sommerjobbprosjektet 2019",
       "tasks": {
-        "_": 1000,
-      }
-    },
-
-    "Sommerjobb-VL": {
-      "number": "502002186-X",
-      "name": "Sommerjobb Veiledning",
-      "tasks": {
-      }
-    },
-
-    "NanoSun": {
-      "number": "502001853",
-      "name": "NanoSun",
-      "tasks": {
-        "_": 1030
+        "_": 1000
       }
     },
 
@@ -103,11 +87,11 @@
       }
     },
 
-    "ELEGANCY": {
-      "number": "502001618",
-      "name": "ELEGANCY",
+    "ELEGANCY WP2": {
+      "number": "502001726-1",
+      "name": "ELEGANCY WP2",
       "tasks": {
-        "PF": 1040
+        "_": 1010
       }
     },
 
