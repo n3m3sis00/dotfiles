@@ -13,7 +13,8 @@
     "ELEGANCY WP2",
     "NCCS",
     "BigLearn",
-    "SH2IFT"
+    "SH2IFT",
+    "TermiskSol"
   ],
   "projects": {
     "Borte": {
@@ -130,6 +131,14 @@
     "SH2IFT": {
       "number": "502001978",
       "name": "SH2IFT",
+      "tasks": {
+        "_": 1020
+      }
+    },
+
+    "TermiskSol": {
+      "number": "502002126",
+      "name": "POS TermiskSol",
       "tasks": {
         "_": 1020
       }
