@@ -66,6 +66,15 @@
       }
     },
 
+    "Sommerjobb-VL": {
+      "number": "502002186-5",
+      "name": "Veiledning sommerstudent",
+      "tasks": {
+        "Mina": 1010,
+        "Agsa": 1020
+      }
+    },
+
     "Predict-RPT": {
       "number": "502001038",
       "name": "Predict-RPT",
