@@ -5,6 +5,8 @@
     "Intern",
     "Tekna",
     "Sommerjobb",
+    "Sommerjobb-VL",
+    "Sommerjobb-VL2",
     "Leiested",
     "FerroCool",
     "Predict-RPT",
@@ -72,6 +74,14 @@
       "tasks": {
         "Mina": 1010,
         "Agsa": 1020
+      }
+    },
+
+    "Sommerjobb-VL2": {
+      "number": "502002186-4",
+      "name": "Veiledning sommerstudent (TE)",
+      "tasks": {
+        "Halvor": 1142
       }
     },
 
