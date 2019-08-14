@@ -163,6 +163,14 @@
       }
     },
 
+    "PredictCUI": {
+      "number": "502002394",
+      "name": "PredictCUI",
+      "tasks": {
+        "_": 1040
+      }
+    },
+
     "Hyper": {
       "number": "502001241",
       "name": "Hyper",
