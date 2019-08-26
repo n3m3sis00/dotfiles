@@ -163,9 +163,9 @@
       }
     },
 
-    "PredictCUI": {
+    "Predict-CUI": {
       "number": "502002394",
-      "name": "PredictCUI",
+      "name": "Predict-CUI",
       "tasks": {
         "_": 1040
       }
