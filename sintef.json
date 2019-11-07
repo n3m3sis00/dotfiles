@@ -16,7 +16,8 @@
     "NCCS",
     "BigLearn",
     "SH2IFT",
-    "TermiskSol"
+    "TermiskSol",
+    "INGRID"
   ],
   "projects": {
     "Borte": {
@@ -176,6 +177,14 @@
       "name": "Hyper",
       "tasks": {
         "WP3": 1030
+      }
+    },
+
+    "INGRID": {
+      "number": "502002418",
+      "name": "INGRID",
+      "tasks": {
+        "_": 1000
       }
     }
   }
