@@ -17,7 +17,8 @@
     "BigLearn",
     "SH2IFT",
     "TermiskSol",
-    "INGRID"
+    "INGRID",
+    "SMUrTS"
   ],
   "projects": {
     "Borte": {
@@ -185,6 +186,14 @@
       "name": "INGRID",
       "tasks": {
         "_": 1000
+      }
+    },
+
+    "SMUrTS": {
+      "number": "102020369",
+      "name": "SMUrTS",
+      "tasks": {
+        "_": 1020
       }
     }
   }
