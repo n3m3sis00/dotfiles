@@ -64,7 +64,7 @@
 
     "Sommerjobb": {
       "number": "502002186",
-      "name": "Sommerjobbprosjektet 2019",
+      "name": "Sommerjobbprosjektet 2020",
       "tasks": {
         "_": 1000
       }
@@ -142,10 +142,10 @@
     },
 
     "BigLearn": {
-      "number": "102016021-6",
+      "number": "102020801",
       "name": "BigLearn",
       "tasks": {
-        "_": 1040
+        "_": 1001
       }
     },
 
