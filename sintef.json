@@ -203,6 +203,14 @@
       "tasks": {
         "_": 1020
       }
+    },
+
+    "eDigital": {
+      "number": "502002555",
+      "name": "GT/E/Digitalisering",
+      "tasks": {
+        "_": 1020
+      }
     }
   }
 }
