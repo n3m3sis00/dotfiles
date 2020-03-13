@@ -62,6 +62,14 @@
       }
     },
 
+    "Faglaget": {
+      "number": "502002534",
+      "name": "GT/E/Strømningsfenomener",
+      "tasks": {
+        "_": 1020
+      }
+    },
+
     "Sommerjobb": {
       "number": "502002513",
       "name": "Sommerjobbprosjektet 2020",
